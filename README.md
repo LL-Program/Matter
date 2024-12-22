@@ -1,6 +1,6 @@
 
 # Matter Standart C++ Library 
-A functional C++ Standart Library, used for the CHIFEngine development
+A functional C++ Standart Library, used for the CHIFEngine Grapics and Game development
 
 <p align="center">
     <img src="https://github.com/LL-Program/Matter/blob/main/GitPage/MatterLibLogo.png?raw=true" width="1080" alt="Matter logo">
